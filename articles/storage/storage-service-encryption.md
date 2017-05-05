@@ -47,7 +47,7 @@ Pour plus d’informations, consultez la FAQ.
 Le chiffrement du service de stockage pour Stockage Fichier est actuellement disponible dans toutes les régions Azure.
 
 
-Pour activer ou désactiver le chiffrement du service de stockage pour un compte de stockage, connectez-vous au [portail Azure](https://azure.portal.com) , puis sélectionnez un compte de stockage. Dans le panneau Paramètres, recherchez la section Service BLOB, comme illustré dans cette capture d’écran, puis cliquez sur Chiffrement.
+Pour activer ou désactiver le chiffrement du service de stockage pour un compte de stockage, connectez-vous au [portail Azure](https://portal.azure.com) , puis sélectionnez un compte de stockage. Dans le panneau Paramètres, recherchez la section Service BLOB, comme illustré dans cette capture d’écran, puis cliquez sur Chiffrement.
 
 ![Capture d’écran du portail affichant l’option de chiffrement](./media/storage-service-encryption/image1.png)
 <br/>*Figure 1 : Activer SSE pour le service BLOB (étape 1)*
